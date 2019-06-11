@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>posi.png</file>
+        <file>bullet.png</file>
+        <file>grass.jpg</file>
+        <file>blood_1.png</file>
+        <file>wave_1.png</file>
+        <file>gold_1.png</file>
+        <file>enemy01.png</file>
+        <file>gold.png</file>
+        <file>tower1.png</file>
+        <file>tower2.png</file>
+        <file>tower3.png</file>
+        <file>power1.png</file>
+        <file>power2.png</file>
+        <file>remind.png</file>
+        <file>mainpage.jpg</file>
+        <file>statement.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>musicback.mp3</file>
+        <file>updatetower.mp3</file>
+        <file>shoot.mp3</file>
+        <file>dead.mp3</file>
+        <file>loadtower.mp3</file>
+    </qresource>
+</RCC>
